@@ -10,9 +10,21 @@ Testing... There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Mission
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+The mission of our organization is to socially, academically, and professionally 
+support underrepresented graduate students within STEM fields at UW-Madison. 
+Underrepresentation applies to a variety of backgrounds and identities, including but 
+not limited to those of  race/ethnicity, religion, sexual orientation, gender, 
+income, and ability. We aim to provide a place where students from underrepresented 
+backgrounds can feel a sense of belonging despite the lack of diversity often 
+encountered in their respective fields. We will improve upon other spaces in the 
+university as places of inclusion for students of underrepresented backgrounds. While 
+each of us face challenges unique to our experiences and identities, we believe there 
+is power in addressing issues of inclusivity and representation together. Where we 
+have privilege, we can use it to lift each other up; where we face barriers, we can 
+lean on our community for strength. 
+
 
 ## Header 2
 
