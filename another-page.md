@@ -13,4 +13,4 @@ style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></ifra
 
 _yay_
 
-[back](./)
+[Home](./)
