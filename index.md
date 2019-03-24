@@ -6,9 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Community Calendar](./another-page.html).
 
-Testing... There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Mission
 
@@ -88,21 +86,6 @@ end
 1.  Item three
 1.  Item four
 
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
 
 ### Small image
 
@@ -110,7 +93,7 @@ end
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Logo](/images/logo.PNG)
 
 
 ### Definition lists can be used with HTML syntax.
