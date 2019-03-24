@@ -4,7 +4,7 @@ title: Community Calendar
 description: This is just another page
 ---
 
-## Welcome to another page
+## Updated Regularly
 
 <iframe 
 src="https://calendar.google.com/calendar/embed?src=8e29hljvcr0ecgvm8rek7h7su0%40group.calendar.google.com&ctz=America%2FChicago" 
